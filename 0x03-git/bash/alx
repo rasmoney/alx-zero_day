@@ -1,3 +1,6 @@
+NSERT
+echo "ALX School"
+ALX School:wq
 #!/bin/bash
  echo "ALX" 
 #!/bin/bash
